@@ -7,4 +7,4 @@
 
 1. [Моя личная страница](https://github.com/pchuvak/p.chuvak)
 
-1. [Ссылка на статью в wiki]()
+1. [Ссылка на статью в wiki](https://github.com/pchuvak/p.chuvak/wiki/FMEA-Analysis)
