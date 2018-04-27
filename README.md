@@ -5,6 +5,6 @@
 
 1. [Моя репозитория](https://github.com/pchuvak/p.chuvak)
 
-1. [Моя личная страница](https://github.com/pchuvak/p.chuvak)
+1. [Моя личная страница](https://github.com/pchuvak)
 
 1. [Ссылка на статью в wiki](https://github.com/pchuvak/p.chuvak/wiki/FMEA-Analysis)
